@@ -13,7 +13,7 @@ Repositório para códigos desenvolvidos durante o desafio de HTML/CSS - DIO TQI
 
 ![Menu hambúrguer](./projetos/desafio_2/index.gif)
 
-##  Parte 03 - Linear-gradient animado <a name="parte02"></a>
+##  Parte 03 - Linear-gradient animado <a name="parte03"></a>
 
 ![Linear-gradient animado](./projetos/desafio_3/index.gif)
 

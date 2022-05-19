@@ -5,7 +5,7 @@ Repositório para códigos desenvolvidos durante o desafio de HTML/CSS - DIO TQI
 * [Parte 02 - Animação menu hambúrguer](#parte02)
 * [Parte 03 - Linear-gradient animado](#parte03) 
 * [Parte 04 - Animação chat](#parte04) 
-* [Parte 03 - Página completa com animações e menu hambúguer](#parte05)
+* [Parte 05 - Página completa com animações e menu hambúguer](#parte05)
 
 ##  Parte 01 - Animação hover em card <a name="parte01"></a>
 
